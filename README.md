@@ -1,6 +1,7 @@
 # Parralax Effect Landing Page
 
-This is an experimental project exploring functionaities offered by Tailwind.
+This project was intended to explore the functionaities offered by Tailwind by building a beautiful mobile responsive landing page for a travelling themed site for adventurous travellers with a parallax effect.
+
 
 Sample screenshots of the finished product below: 
 
